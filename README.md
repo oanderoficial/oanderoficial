@@ -1,3 +1,27 @@
+
+<h1> Anderson Bezerra Silva </h1>
+
+🔭 Atualmente estou trabalhando com infraestrutura de TI para Mercedes Benz do Brasil (Cars e Truck)
+<br>
+🖳 Ferramentas que trabalho: SCOM, Grafana, Rancher, Prometheus e Zabbix
+<br>
+📘 No momento cursando  Engenharia de Computação
+<br>
+🧑🏻‍💻 Linguagens que utilizo em projetos: C, C++, Shell Script e Python
+<br>
+📱 Habilidades com front-end (Sites responsivos, utilizando o conceito mobile first.)
+<br>
+🖧 Tenho alguns projeto interesantes aqui, convido você a explorar! 
+<br>
+🤔 Qual a cor de um camaleão que se olha no espelho?
+<br>
+💬 Chama aí, bora trocar uma idéia!
+<br>
+📫 Como entrar em contato comigo: andersoncomercial@pm.me
+<br>
+⚡ Portfólio: https://oander.site  
+<br>
+
 <div align="center">
  <a href="https://github.com/oanderoficial">
 <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=oanderoficial&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
