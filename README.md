@@ -9,7 +9,7 @@
 <br>
 🧑🏻‍💻 Linguagens que utilizo em projetos: C, C++, Shell Script e Python
 <br>
-📱 Habilidades com front-end (Sites responsivos, utilizando o conceito mobile first.)
+📱 Habilidades com front-end (Sites responsivos, utilizando o conceito mobile first)
 <br>
 🖧 Tenho alguns projeto interessantes aqui, convido você a explorar! 
 <br>
