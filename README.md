@@ -3,7 +3,7 @@
 
 🔭 Atualmente estou trabalhando com infraestrutura de TI para Mercedes Benz do Brasil (Cars e Truck)
 <br>
-🖳 Ferramentas que trabalho: Dynatrace, Grafana, Kubernetes, Rancher, Prometheus e Zabbix
+🖳 Ferramentas que utilizo no meu trabalho: Dynatrace, Grafana, Kubernetes, Rancher, Prometheus e Zabbix
 <br>
 📘 No momento cursando  Engenharia de Computação -UAM
 <br>
