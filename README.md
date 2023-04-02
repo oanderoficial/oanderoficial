@@ -3,11 +3,11 @@
 
 🔭 Atualmente estou trabalhando com infraestrutura de TI para Mercedes Benz do Brasil (Cars e Truck)
 <br>
-🖳 Ferramentas que trabalho: SCOM, Grafana, Rancher, Prometheus e Zabbix
+🖳 Ferramentas que trabalho: Dynatrace, Grafana, Kubernetes, Rancher, Prometheus e Zabbix
 <br>
-📘 No momento cursando  Engenharia de Computação
+📘 No momento cursando  Engenharia de Computação -UAM
 <br>
-🧑🏻‍💻 Linguagens que utilizo em projetos: C, C++, Shell Script e Python
+🧑🏻‍💻 Linguagens que utilizo em projetos: C, C++, Shell Script, Python e Lua. 
 <br>
 📱 Habilidades com front-end (Sites responsivos, utilizando o conceito mobile first)
 <br>
