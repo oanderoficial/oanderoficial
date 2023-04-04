@@ -7,7 +7,7 @@
 <br>
 📘 No momento cursando  Engenharia de Computação -UAM
 <br>
-🧑🏻‍💻 Linguagens que utilizo em projetos: C, C++, Shell Script, Python e Lua. 
+🧑🏻‍💻 Linguagens que utilizo em projetos: C, C++, Shell Script, Python, Lua e Julia. 
 <br>
 📱 Habilidades com front-end (Sites responsivos, utilizando o conceito mobile first)
 <br>
