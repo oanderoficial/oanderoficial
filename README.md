@@ -11,7 +11,7 @@
 <br>
 📱 Habilidades com front-end (Sites responsivos, utilizando o conceito mobile first)
 <br>
-🖧 Tenho alguns projeto interessantes aqui, convido você a explorar! 
+🖧 Tenho alguns projetos interessantes aqui, convido você a explorar! 
 <br>
 🤔 Qual a cor de um camaleão que se olha no espelho?
 <br>
