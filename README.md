@@ -1,9 +1,7 @@
 
 <h1> Anderson Bezerra Silva </h1>
 
-- Atualmente estou trabalhando como Técnico Suporte Sistemas II para Mercedes Benz do Brasil (Cars e Truck)
-- Ferramentas que utilizo no meu trabalho: Dynatrace, Grafana, Kubernetes, Rancher, Prometheus e Zabbix
-- No momento cursando  Engenharia de Computação -UAM
+- Atualmente cursando Engenharia de Computação -UAM
 - Linguagens que utilizo em projetos: C, C++, Shell Script, Python, Lua e Julia. 
 - Habilidades com front-end (Sites responsivos, utilizando o conceito mobile first)
 - Tenho alguns projetos interessantes aqui, convido você a explorar! 
