@@ -1,6 +1,8 @@
 
 <h1> Anderson Bezerra Silva </h1>
 
+[Arch Linux User]
+
 - Atualmente cursando Engenharia de Computação -UAM
 - Linguagens que utilizo em projetos: C, C++, Shell Script, Python, Lua e Julia. 
 - Habilidades com front-end (Sites responsivos, utilizando o conceito mobile first)
