@@ -4,8 +4,8 @@
 [Arch Linux User] - [Sysadm] - [Developer]
 
 - Atualmente cursando Engenharia de Computação -UAM
-- Linguagens que utilizo em projetos: C, C++, Shell Script, Python, Lua e Julia. 
-- Habilidades com front-end (Sites responsivos, utilizando o conceito mobile first)
+- Linguagens que costumo utilizar em projetos: C, C++, Shell Script, Python, Lua e Julia. 
+- Atualmente trabalhando com Python, desenvolvendo automações e tratando dados voltados a observabilidade.
 - Tenho alguns projetos interessantes aqui, convido você a explorar! 
 - Qual a cor de um camaleão que se olha no espelho?
 - Chama aí, bora trocar uma idéia!
