@@ -3,9 +3,9 @@
 
 [Arch Linux User] - [Sysadm] - [Developer]
 
+- Trabalhando com Python na T-Systems do Brasil, desenvolvendo aplicações e automações. Tratando dados voltados a observabilidade.
 - Atualmente cursando Engenharia de Computação -UAM
 - Linguagens que costumo utilizar em projetos: C, C++, Shell Script, Python, Lua e Julia. 
-- Trabalhando com Python, desenvolvendo aplicações e automações, tratando dados voltados a observabilidade.
 - Tenho alguns projetos interessantes aqui, convido você a explorar! 
 - Qual a cor de um camaleão que se olha no espelho?
 - Chama aí, bora trocar uma idéia!
