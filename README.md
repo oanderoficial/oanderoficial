@@ -1,7 +1,7 @@
 
 <h1> Anderson Bezerra Silva </h1>
 
-[Arch Linux User] - [Sysadm] - [Developer]
+[Sysadmin] - [Developer]
 
 - Trabalhando com Python na T-Systems do Brasil, desenvolvendo aplicações e automações. Tratando dados voltados a observabilidade.
 - Atualmente cursando Engenharia de Computação -UAM
