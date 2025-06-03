@@ -3,11 +3,9 @@
 
 [Sysadmin] - [Developer]
 
-- Trabalhando com Python na T-Systems do Brasil, desenvolvendo aplicações e automações. Tratando dados voltados a observabilidade.
+- Trabalhando com Python na T-Systems do Brasil, eu automatizo rotinas de monitoramento com Python para times de infraestrutura. E Trato dados voltados a observabilidade.
 - Faço Ciência da Computação na UAM
-- Linguagens que costumo utilizar em projetos: C, C++, Shell Script, Python, Lua e Julia. 
 - Tenho alguns projetos interessantes aqui, convido você a explorar! 
-- Qual a cor de um camaleão que se olha no espelho?
 - Chama aí, bora trocar uma idéia!
 - Como entrar em contato comigo: andersoncomercial@pm.me
 - Portfólio: https://oander.site  
