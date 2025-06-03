@@ -1,7 +1,7 @@
 
 <h1> Anderson Bezerra Silva </h1>
 
-- Trabalhando com Python na T-Systems do Brasil, eu automatizo rotinas de monitoramento com Python para times de infraestrutura. E Trato dados voltados a observabilidade.
+- Trabalhando com Python na T-Systems do Brasil, eu automatizo rotinas de monitoramento com Python para times de infraestrutura. E trato dados voltados a observabilidade.
 - Faço Ciência da Computação na UAM
 - Tenho alguns projetos interessantes aqui, convido você a explorar! 
 - Chama aí, bora trocar uma idéia!
