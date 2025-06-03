@@ -1,8 +1,6 @@
 
 <h1> Anderson Bezerra Silva </h1>
 
-[Sysadmin] - [Developer]
-
 - Trabalhando com Python na T-Systems do Brasil, eu automatizo rotinas de monitoramento com Python para times de infraestrutura. E Trato dados voltados a observabilidade.
 - Faço Ciência da Computação na UAM
 - Tenho alguns projetos interessantes aqui, convido você a explorar! 
