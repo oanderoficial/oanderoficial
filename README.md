@@ -1,13 +1,58 @@
+<h1 align="center">Anderson Bezerra Silva</h1>
 
-<h1> Anderson Bezerra Silva </h1>
+<table>
+<tr>
+<td width="60%">
 
-- Trabalhando com Python na T-Systems do Brasil, eu automatizo rotinas de monitoramento para times de infraestrutura. E trato dados voltados a observabilidade.
-- Faço Ciência da Computação na UAM
-- Tenho alguns projetos interessantes aqui, convido você a explorar! 
-- Chama aí, bora trocar uma idéia!
-- Como entrar em contato comigo: andersoncomercial@pm.me
-- Portfólio: https://oander.site  
-<br> <br>
+```console
+anderson@github:~$ whoami
+Anderson Bezerra Silva
+
+anderson@github:~$ current_job
+Linux/Kubernetes Squad @ T-Systems do Brasil
+→ Mercedes-Benz do Brasil
+
+anderson@github:~$ skills
+Python • Linux • Kubernetes • Observabilidade
+Automação • Infraestrutura como Código • Cloud
+
+anderson@github:~$ education
+Ciência da Computação - UAM
+
+anderson@github:~$ contact
+📧 andersoncomercial@pm.me
+🌎 https://oander.site
+
+anderson@github:~$ ./explore-projects.sh
+🚀 Confira meus projetos abaixo!
+```
+
+</td>
+
+<td width="40%">
+
+<img src="./image.gif" width="100%" />
+
+</td>
+</tr>
+</table>
+
+## 🧠 Tecnologias & Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MacOS](https://img.shields.io/badge/macos-232F3E?style=for-the-badge&logo=macos&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <div align="center">
  <!--
