@@ -71,4 +71,20 @@ anderson@github:~$ ./explore-projects.sh
 | :-: | :-: | :-: |
 
 
- 
+---
+
+## 🏆 Treinamentos e Certificações
+
+-  Commvault Certified Professional - 2025
+-  MongoDB Python Developer Path - 2025 
+-  AiOps foundations - BigPanda - 2024 
+-  New Relic Observability foundations - 2024 
+-  Trilha Orquestração de containers - O2B - 2024 
+-  Programação com Python - Impacta Tecnologia - 2024 
+-  Architecting on AWS - Green Tecnologia - 2024 
+-  Oracle Cloud infrastructure 2023 Certified Foundations Associate 
+-  Inteligência artificial e ferramentas avançadas de ciência de dados - Universidade Presbiteriana Mackenzie - 2021
+-  Tomada de decisões guiadas por dados - Universidade Presbiteriana Mackenzie - 2021
+-  AWS Cloud Practitioner Essentials (segunda edição) - 2020
+
+---
