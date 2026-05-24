@@ -40,6 +40,8 @@ anderson@github:~$ ./explore-projects.sh
 ## 🧠 Tecnologias & Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![APIREST](https://img.shields.io/badge/ApiREST-0078D4?style=for-the-badge&logo=apirest&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-2496ED?style=for-the-badge&logo=bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MacOS](https://img.shields.io/badge/macos-232F3E?style=for-the-badge&logo=macos&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
