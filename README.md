@@ -40,11 +40,15 @@ anderson@github:~$ ./explore-projects.sh
 ## 🧠 Tecnologias & Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-005571?style=for-the-badge&logo=Flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![APIREST](https://img.shields.io/badge/ApiREST-0078D4?style=for-the-badge&logo=apirest&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-2496ED?style=for-the-badge&logo=bash&logoColor=white)
+![Json](https://img.shields.io/badge/Json-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MacOS](https://img.shields.io/badge/macos-232F3E?style=for-the-badge&logo=macos&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Rancher](https://img.shields.io/badge/Rancher-326CE5?style=for-the-badge&logo=Rancher&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-4EA94B?style=for-the-badge&logo=Dynatrace&logoColor=white)
@@ -54,8 +58,13 @@ anderson@github:~$ ./explore-projects.sh
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![BigPanda](https://img.shields.io/badge/BigPanda-0078D4?style=for-the-badge&logo=BigPanda&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E6522C?style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-232F3E?style=for-the-badge&logo=GitHub&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-F46800?style=for-the-badge&logo=Gitlab&logoColor=white)
+
 
 <div align="center">
  <!--
