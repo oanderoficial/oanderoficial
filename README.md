@@ -66,6 +66,7 @@ anderson@github:~$ ./explore-projects.sh
   -->
   </div>
 
+## Estatísticas do perfil 
  
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oanderoficial&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oanderoficial&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oanderoficial&theme=github_dark) |
 | :-: | :-: | :-: |
