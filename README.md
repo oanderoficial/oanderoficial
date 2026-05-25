@@ -144,3 +144,19 @@ anderson@github:~$ ./explore-projects.sh
 </details>
 
 ---
+
+
+## 🏅 Reconhecimentos
+
+> Clique na seta para expandir e visualizar.
+<details>
+<summary> Ver reconhecimentos </summary>
+
+### T-Systems
+
+Projeto Zabbix Daimler - Migração e atualização da infraestrutura do Zabbix  
+↳ [Ver reconhecimento](https://www.linkedin.com/posts/oandersonbsilva_certificado-ugcPost-7361921951914778625-qBvQ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACoc2NMBF0WS_Kh8Grz5jKAYozNNP1rtdVk)
+
+</details>
+
+---
