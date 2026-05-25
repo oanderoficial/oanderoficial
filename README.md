@@ -1,5 +1,9 @@
 <h1 align="center"> Ander :) </h1>
 
+<p align="center">
+  <i>“Não importa o quão difícil ou impossível seja, nunca perca de vista seu objetivo.” — Monkey D. Luffy. </i>
+</p>
+
 <table>
 <tr>
 <td width="60%">
