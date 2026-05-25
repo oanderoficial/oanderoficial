@@ -85,40 +85,58 @@ anderson@github:~$ ./explore-projects.sh
 
 ## 🏆 Treinamentos & Certificações
 
-[✓] Commvault Certified Professional — 2025  
-&nbsp;&nbsp;&nbsp;&nbsp;↳ [Ver certificado](https://www.credly.com/badges/729bb944-b93d-4120-95e3-a68bf3d94567)
+> Clique na seta para expandir e visualizar minhas certificações.
+<details>
+<summary>📚 Ver certificações</summary>
 
-[✓] MongoDB Python Developer Path — 2025  
-&nbsp;&nbsp;&nbsp;&nbsp;↳ [Ver certificado](https://www.linkedin.com/posts/oandersonbsilva_mongodb-python-developer-path-activity-7365848085974994944-KqfF?utm_source=share&utm_medium=member_desktop&rcm=ACoAACoc2NMBF0WS_Kh8Grz5jKAYozNNP1rtdVk)
+<br>
 
-[✓] AiOps Foundations — BigPanda — 2024  
-&nbsp;&nbsp;&nbsp;&nbsp;↳ [Ver certificado](https://www.linkedin.com/posts/oandersonbsilva_aiops-foundations-bigpanda-activity-7239977059328921600-5gpZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACoc2NMBF0WS_Kh8Grz5jKAYozNNP1rtdVk)
+### ☁️ Cloud & DevOps
 
 [✓] Microsoft AZ-104: Administração do Microsoft Azure — 2024  
-&nbsp;&nbsp;&nbsp;&nbsp;↳ [Ver certificado](https://www.linkedin.com/posts/oandersonbsilva_microsoft-az-104-administra%C3%A7%C3%A3o-do-microsoft-activity-7264389014101655552-w2LH?utm_source=share&utm_medium=member_desktop&rcm=ACoAACoc2NMBF0WS_Kh8Grz5jKAYozNNP1rtdVk)
-
-[✓] New Relic Observability Foundations — 2024  
-&nbsp;&nbsp;&nbsp;&nbsp;↳ [Ver certificado](https://credentials.newrelic.com/eb1ffbf7-b1b0-45df-a1eb-b7efe8b6892e#acc.2BSgE06p)
-
-[✓] Trilha Orquestração de Containers — O2B — 2024  
-&nbsp;&nbsp;&nbsp;&nbsp;↳ [Ver certificado](https://www.linkedin.com/posts/oandersonbsilva_trilha-orquestra%C3%A7%C3%A3o-de-containers-activity-7232429091096788992-jyaN?utm_source=share&utm_medium=member_desktop&rcm=ACoAACoc2NMBF0WS_Kh8Grz5jKAYozNNP1rtdVk)
-
-[✓] Programação com Python — Impacta Tecnologia — 2024  
-&nbsp;&nbsp;&nbsp;&nbsp;↳ [Ver certificado](https://www.linkedin.com/posts/oandersonbsilva_programa%C3%A7%C3%A3o-com-python-activity-7212019150439759872-SLra?utm_source=share&utm_medium=member_desktop&rcm=ACoAACoc2NMBF0WS_Kh8Grz5jKAYozNNP1rtdVk)
+↳ [Ver certificado](https://www.linkedin.com/posts/oandersonbsilva_microsoft-az-104-administra%C3%A7%C3%A3o-do-microsoft-activity-7264389014101655552-w2LH?utm_source=share&utm_medium=member_desktop&rcm=ACoAACoc2NMBF0WS_Kh8Grz5jKAYozNNP1rtdVk)
 
 [✓] Architecting on AWS — Green Tecnologia — 2024  
-&nbsp;&nbsp;&nbsp;&nbsp;↳ [Ver certificado](https://www.linkedin.com/posts/oandersonbsilva_architecting-on-aws-activity-7210967160096018432-LLhT?utm_source=share&utm_medium=member_desktop&rcm=ACoAACoc2NMBF0WS_Kh8Grz5jKAYozNNP1rtdVk)
+↳ [Ver certificado](https://www.linkedin.com/posts/oandersonbsilva_architecting-on-aws-activity-7210967160096018432-LLhT?utm_source=share&utm_medium=member_desktop&rcm=ACoAACoc2NMBF0WS_Kh8Grz5jKAYozNNP1rtdVk)
 
 [✓] Oracle Cloud Infrastructure 2023 Certified Foundations Associate  
-&nbsp;&nbsp;&nbsp;&nbsp;↳ [Ver certificado](https://www.linkedin.com/posts/oandersonbsilva_oracle-certified-foundations-associate-activity-7079901552320143360-9wdB?utm_source=share&utm_medium=member_desktop&rcm=ACoAACoc2NMBF0WS_Kh8Grz5jKAYozNNP1rtdVk)
-
-[✓] Inteligência Artificial e Ferramentas Avançadas de Ciência de Dados — Mackenzie — 2021  
-&nbsp;&nbsp;&nbsp;&nbsp;↳ [Ver certificado](https://www.linkedin.com/posts/oandersonbsilva_intelig%C3%AAncia-artificial-activity-6852951498393952256-u4bg?utm_source=share&utm_medium=member_desktop&rcm=ACoAACoc2NMBF0WS_Kh8Grz5jKAYozNNP1rtdVk)
-
-[✓] Tomada de Decisões Guiadas por Dados — Mackenzie — 2021  
-&nbsp;&nbsp;&nbsp;&nbsp;↳ [Ver certificado](https://www.linkedin.com/posts/oandersonbsilva_tomada-de-decis%C3%B5es-guiadas-por-dados-4h-activity-6845441233062518784-SFZJ/?rcm=ACoAACoc2NMBF0WS_Kh8Grz5jKAYozNNP1rtdVk)
+↳ [Ver certificado](https://www.linkedin.com/posts/oandersonbsilva_oracle-certified-foundations-associate-activity-7079901552320143360-9wdB?utm_source=share&utm_medium=member_desktop&rcm=ACoAACoc2NMBF0WS_Kh8Grz5jKAYozNNP1rtdVk)
 
 [✓] AWS Cloud Practitioner Essentials (2ª edição) — 2020  
-&nbsp;&nbsp;&nbsp;&nbsp;↳ [Ver certificado](https://media.licdn.com/dms/image/v2/C4D22AQExaL4XzV3_zA/feedshare-shrink_1280/feedshare-shrink_1280/0/1628435683938?e=1781136000&v=beta&t=qPQS748Qv92bzBYB05SOn6vi6BgzwSxHw_vewHI_vdU)
+↳ [Ver certificado](https://media.licdn.com/dms/image/v2/C4D22AQExaL4XzV3_zA/feedshare-shrink_1280/feedshare-shrink_1280/0/1628435683938?e=1781136000&v=beta&t=qPQS748Qv92bzBYB05SOn6vi6BgzwSxHw_vewHI_vdU)
+
+---
+
+### 📊 Observabilidade & Infraestrutura
+
+[✓] Commvault Certified Professional — 2025  
+↳ [Ver certificado](https://www.credly.com/badges/729bb944-b93d-4120-95e3-a68bf3d94567)
+
+[✓] AiOps Foundations — BigPanda — 2024  
+↳ [Ver certificado](https://www.linkedin.com/posts/oandersonbsilva_aiops-foundations-bigpanda-activity-7239977059328921600-5gpZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACoc2NMBF0WS_Kh8Grz5jKAYozNNP1rtdVk)
+
+[✓] New Relic Observability Foundations — 2024  
+↳ [Ver certificado](https://credentials.newrelic.com/eb1ffbf7-b1b0-45df-a1eb-b7efe8b6892e#acc.2BSgE06p)
+
+[✓] Trilha Orquestração de Containers — O2B — 2024  
+↳ [Ver certificado](https://www.linkedin.com/posts/oandersonbsilva_trilha-orquestra%C3%A7%C3%A3o-de-containers-activity-7232429091096788992-jyaN?utm_source=share&utm_medium=member_desktop&rcm=ACoAACoc2NMBF0WS_Kh8Grz5jKAYozNNP1rtdVk)
+
+---
+
+### 🐍 Desenvolvimento & Dados
+
+[✓] MongoDB Python Developer Path — 2025  
+↳ [Ver certificado](https://www.linkedin.com/posts/oandersonbsilva_mongodb-python-developer-path-activity-7365848085974994944-KqfF?utm_source=share&utm_medium=member_desktop&rcm=ACoAACoc2NMBF0WS_Kh8Grz5jKAYozNNP1rtdVk)
+
+[✓] Programação com Python — Impacta Tecnologia — 2024  
+↳ [Ver certificado](https://www.linkedin.com/posts/oandersonbsilva_programa%C3%A7%C3%A3o-com-python-activity-7212019150439759872-SLra?utm_source=share&utm_medium=member_desktop&rcm=ACoAACoc2NMBF0WS_Kh8Grz5jKAYozNNP1rtdVk)
+
+[✓] Inteligência Artificial e Ferramentas Avançadas de Ciência de Dados — Mackenzie — 2021  
+↳ [Ver certificado](https://www.linkedin.com/posts/oandersonbsilva_intelig%C3%AAncia-artificial-activity-6852951498393952256-u4bg?utm_source=share&utm_medium=member_desktop&rcm=ACoAACoc2NMBF0WS_Kh8Grz5jKAYozNNP1rtdVk)
+
+[✓] Tomada de Decisões Guiadas por Dados — Mackenzie — 2021  
+↳ [Ver certificado](https://www.linkedin.com/posts/oandersonbsilva_tomada-de-decis%C3%B5es-guiadas-por-dados-4h-activity-6845441233062518784-SFZJ/?rcm=ACoAACoc2NMBF0WS_Kh8Grz5jKAYozNNP1rtdVk)
+
+</details>
 
 ---
