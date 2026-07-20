@@ -13,7 +13,7 @@ anderson@github:~$ whoami
 Anderson Bezerra Silva
 
 anderson@github:~$ current_job
-Linux/Kubernetes Squad @ T-Systems do Brasil
+Automação/Linux/Kubernetes Squads @ T-Systems do Brasil
 → Mercedes-Benz do Brasil
 
 anderson@github:~$ skills
@@ -25,7 +25,7 @@ Ciência da Computação - UAM
 
 anderson@github:~$ contact
 📧 andersoncomercial@pm.me
-🌎 https://oander.site
+🌎 https://oanderson.site
 
 anderson@github:~$ ./explore-projects.sh
 🚀 Confira meus projetos abaixo!
